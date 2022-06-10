@@ -1,6 +1,6 @@
 ## Hola, I'm Harsh Bhavsar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="moneshvenkul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="harshbhavsar" /> </p>
 
 
 <a href="https://www.linkedin.com/in/harshbhavsarr/">
@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working in Uplers
+- 🔭 I’m currently working in SEO 
 - 🌱 I’m currently learning more about Full Stack Development.
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about SEO or any tech related stuff.
